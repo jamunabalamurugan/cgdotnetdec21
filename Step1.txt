@@ -1,0 +1,6 @@
+How to configure Git
+I will assume that at this point you have installed Git. To verify this, you can run this command on the command line: git --version. This shows you the current version installed on you PC.
+
+The next thing you'll need to do is to set your username and email address. Git will use this information to identify who made specific changes to files.
+
+To set your username, type and execute these commands: git config --global user.name "YOUR_USERNAME" and git config --global user.email "YOUR_EMAIL". Just make sure to replace "YOUR_USERNAME" and "YOUR_EMAIL" with the values you choose.
