@@ -1,0 +1,37 @@
+Assembly
+
+1.Single Deployable executable unit which can be ported to any different machine...Its the details about your Classes within the application...We can understand the details of an application using the assembly
+
+Inetrmediate Language Assembler and ildasm-Break the assembly and let us know the details
+
+Go to vs developer command prompt as adminstrator
+type in c:\> prompt ....ildasm
+
+open any Exe or DLL file created in CSharp
+
+It will  show the application classes
+
+Fundemental unit of deployement or version control,reuse and security for a .net app
+Logical unit that aids in distribution
+Takes the form of .dll or .exe
+Assembly contains data about elements in the assembly
+Can contain single or multiple files
+Assembly manifest contains META data(details about itself)
+Assemblies can be loaded
+it contains PE header(portable and executable file),CLR header,Metadata and IL Code and Resourcec
+
+
+
+
+
+
+2. Assemblies can be ot two types 1.Private or 2. Shared
+
+3. Invidual Copies in case of Private Assembly
+
+4. For creating Shared assembly Placed in common place called GlobalAssemblyCache...Its a repository of assemblies
+Machine-wide central repository
+Assemblies in GAC must be strongly named
+Strong name consist of its simple text name,version number like 1,culture info like English or german or Arabic like region specific for localization,plus a public key which is given by your machine as a digital signature.
+
+

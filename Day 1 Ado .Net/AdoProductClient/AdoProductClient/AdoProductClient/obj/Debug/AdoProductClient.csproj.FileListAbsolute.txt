@@ -1,0 +1,14 @@
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductClient\bin\Debug\AdoProductClient.exe.config
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductClient\bin\Debug\AdoProductClient.exe
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductClient\bin\Debug\AdoProductClient.pdb
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductClient\bin\Debug\System.Data.SqlClient.dll
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductClient\bin\Debug\System.Data.SqlClient.xml
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductClient\obj\Debug\AdoProductClient.csprojAssemblyReference.cache
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductClient\obj\Debug\AdoProductClient.csproj.CoreCompileInputs.cache
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductClient\obj\Debug\AdoProductClient.csproj.CopyComplete
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductClient\obj\Debug\AdoProductClient.exe
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductClient\obj\Debug\AdoProductClient.pdb
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductClient\bin\Debug\AdoProductBAL.dll
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductClient\bin\Debug\AdoProductDataAccessLayer.dll
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductClient\bin\Debug\AdoProductBAL.pdb
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductClient\bin\Debug\AdoProductDataAccessLayer.pdb

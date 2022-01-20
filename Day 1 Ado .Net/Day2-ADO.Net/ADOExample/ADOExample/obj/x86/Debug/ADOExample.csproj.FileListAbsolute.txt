@@ -1,0 +1,22 @@
+E:\L&T\.NET batch\Demos\ADOExample\ADOExample\bin\Debug\ADOExample.exe
+E:\L&T\.NET batch\Demos\ADOExample\ADOExample\bin\Debug\ADOExample.pdb
+E:\L&T\.NET batch\Demos\ADOExample\ADOExample\obj\x86\Debug\ADOExample.exe
+E:\L&T\.NET batch\Demos\ADOExample\ADOExample\obj\x86\Debug\ADOExample.pdb
+E:\L&T\.NET batch\Demos\ADOExample\ADOExample\obj\x86\Debug\ADOExample.csprojResolveAssemblyReference.cache
+E:\L&T\.NET batch\Demos\ADOExample\ADOExample\bin\Debug\ADONETeg.dll
+E:\L&T\.NET batch\Demos\ADOExample\ADOExample\bin\Debug\ADONETeg.pdb
+C:\Jamuna\SQL Server & DotNET LTI Slides with Demo\Demos\ADOExample\ADOExample\obj\x86\Debug\ADOExample.exe
+C:\Jamuna\SQL Server & DotNET LTI Slides with Demo\Demos\ADOExample\ADOExample\obj\x86\Debug\ADOExample.pdb
+F:\Jamuna\Backup Dell\SQL Server & DotNET LTI Slides with Demo\Demos\ADOExample\ADOExample\bin\Debug\ADOExample.exe
+F:\Jamuna\Backup Dell\SQL Server & DotNET LTI Slides with Demo\Demos\ADOExample\ADOExample\bin\Debug\ADOExample.pdb
+F:\Jamuna\Backup Dell\SQL Server & DotNET LTI Slides with Demo\Demos\ADOExample\ADOExample\obj\x86\Debug\ADOExample.csproj.CoreCompileInputs.cache
+F:\Jamuna\Backup Dell\SQL Server & DotNET LTI Slides with Demo\Demos\ADOExample\ADOExample\obj\x86\Debug\ADOExample.csproj.CopyComplete
+F:\Jamuna\Backup Dell\SQL Server & DotNET LTI Slides with Demo\Demos\ADOExample\ADOExample\obj\x86\Debug\ADOExample.exe
+F:\Jamuna\Backup Dell\SQL Server & DotNET LTI Slides with Demo\Demos\ADOExample\ADOExample\obj\x86\Debug\ADOExample.pdb
+F:\Jamuna\Backup Dell\SQL Server & DotNET LTI Slides with Demo\Demos\ADOExample\ADOExample\obj\x86\Debug\ADOExample.csprojAssemblyReference.cache
+G:\JAMUNA\SQL Server & DotNET LTI Slides with Demo\Demos\ADOExample\ADOExample\obj\x86\Debug\ADOExample.csproj.CoreCompileInputs.cache
+G:\JAMUNA\SQL Server & DotNET LTI Slides with Demo\Demos\ADOExample\ADOExample\obj\x86\Debug\ADOExample.exe
+G:\JAMUNA\SQL Server & DotNET LTI Slides with Demo\Demos\ADOExample\ADOExample\obj\x86\Debug\ADOExample.pdb
+G:\JAMUNA\SQL Server & DotNET LTI Slides with Demo\Demos\ADOExample\ADOExample\bin\Debug\ADOExample.exe
+G:\JAMUNA\SQL Server & DotNET LTI Slides with Demo\Demos\ADOExample\ADOExample\bin\Debug\ADOExample.pdb
+G:\JAMUNA\SQL Server & DotNET LTI Slides with Demo\Demos\ADOExample\ADOExample\obj\x86\Debug\ADOExample.csprojAssemblyReference.cache

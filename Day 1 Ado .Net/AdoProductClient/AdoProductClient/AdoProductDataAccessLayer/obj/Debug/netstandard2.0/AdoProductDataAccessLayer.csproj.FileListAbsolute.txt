@@ -1,0 +1,8 @@
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductDataAccessLayer\bin\Debug\netstandard2.0\AdoProductDataAccessLayer.deps.json
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductDataAccessLayer\bin\Debug\netstandard2.0\AdoProductDataAccessLayer.dll
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductDataAccessLayer\obj\Debug\netstandard2.0\AdoProductDataAccessLayer.AssemblyInfoInputs.cache
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductDataAccessLayer\obj\Debug\netstandard2.0\AdoProductDataAccessLayer.AssemblyInfo.cs
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductDataAccessLayer\bin\Debug\netstandard2.0\AdoProductDataAccessLayer.pdb
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductDataAccessLayer\obj\Debug\netstandard2.0\AdoProductDataAccessLayer.csproj.CoreCompileInputs.cache
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductDataAccessLayer\obj\Debug\netstandard2.0\AdoProductDataAccessLayer.dll
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductDataAccessLayer\obj\Debug\netstandard2.0\AdoProductDataAccessLayer.pdb

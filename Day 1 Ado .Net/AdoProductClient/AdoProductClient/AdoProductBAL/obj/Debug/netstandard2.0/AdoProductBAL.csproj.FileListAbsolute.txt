@@ -1,0 +1,12 @@
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductBAL\bin\Debug\netstandard2.0\AdoProductBAL.deps.json
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductBAL\bin\Debug\netstandard2.0\AdoProductBAL.dll
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductBAL\obj\Debug\netstandard2.0\AdoProductBAL.csprojAssemblyReference.cache
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductBAL\obj\Debug\netstandard2.0\AdoProductBAL.AssemblyInfoInputs.cache
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductBAL\obj\Debug\netstandard2.0\AdoProductBAL.AssemblyInfo.cs
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductBAL\bin\Debug\netstandard2.0\AdoProductBAL.pdb
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductBAL\obj\Debug\netstandard2.0\AdoProductBAL.csproj.CoreCompileInputs.cache
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductBAL\obj\Debug\netstandard2.0\AdoProductBAL.dll
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductBAL\obj\Debug\netstandard2.0\AdoProductBAL.pdb
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductBAL\bin\Debug\netstandard2.0\AdoProductDataAccessLayer.dll
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductBAL\bin\Debug\netstandard2.0\AdoProductDataAccessLayer.pdb
+F:\Jamuna\GET 855\C#\Day8\AdoProductClient\AdoProductBAL\obj\Debug\netstandard2.0\AdoProductBAL.csproj.CopyComplete
